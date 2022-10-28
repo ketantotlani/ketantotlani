@@ -1,5 +1,5 @@
 ### Hi there 👋 I am Ketan Totlani 
-I am a Software Engineer, I also have a passion for UI Designing. 
+I am a Software Engineer, I also have a passion for BE/FE Development. 
 
 **Languages and Tools:**  
 
