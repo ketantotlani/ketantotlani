@@ -1,5 +1,5 @@
 ### Hi there 👋 I am Ketan Totlani 
-I am a Software Engineer, I also have a passion for BE/FE Development. 
+I am a Software Engineer, Currently working on both BE/FE Development. 
 
 **Languages and Tools:**  
 
