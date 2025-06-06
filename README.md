@@ -1,39 +1,41 @@
-### Hi there 👋 I am Ketan Totlani 
-I am a Software Engineer, Currently working as a Full Stack Developer. 
+### Hi there 👋 I’m Ketan Totlani
 
-**Languages and Tools:**  
+I’m a Data Scientist with a strong foundation in software engineering, now focused on applying machine learning and data science to real-world problems. Currently pursuing my Master’s in Applied Data Science at USC 🇺🇸.
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/spring-boot/spring-boot.png"></code>
+🔍 My interests lie at the intersection of machine learning, edge computing, and real-time applications in media and health. I've also published research on generative AI, ethical AI, and pose estimation in IEEE and IJRASET.
 
+---
 
-## Gitlab Contributions.
-![Gitlab Contributions](https://user-images.githubusercontent.com/43614859/205559881-fff62da8-3c0d-404f-bd7a-1eedf77d7a8b.png)
+**🛠️ Languages and Tools I Work With:**  
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png"></code>
+<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg"></code><code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/numpy/numpy.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/scikit-learn/scikit-learn.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/tensorflow/tensorflow.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/jupyter-notebook/jupyter-notebook.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/sql/sql.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/aws/aws.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/docker/docker.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png"></code>
 
+---
 
-## Let's Connect.
+📝 **Selected Publications**  
+- 📘 *Latency-Optimized LLM Inference in Edge Environments* – [IJRASET](https://doi.org/10.22214/ijraset.2024.63470)  
+- 📘 *Pose Estimation Using MediaPipe for Fitness* – [IEEE Xplore](https://ieeexplore.ieee.org/document/10870725)  
+- 📘 *Ethics in the Age of AI* – [IJRASET](https://doi.org/10.22214/ijraset.2023.56138)  
+- 📘 *Generative AI in Media* – [IJRASET](https://doi.org/10.22214/ijraset.2023.56140)  
 
-[<img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/ketantotlani/)
-[<img src="https://img.shields.io/badge/Twitter%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/>](https://twitter.com/ketantotlani_)
+---
 
+📊 **Recent Projects**
+- 🔹 Built **Script Viz**, an OpenAI-powered tool for script breakdown and scene tagging for filmmakers.
+- 🔹 Developed ML pipelines with Scikit-Learn and TensorFlow for classification and NLP tasks.
+- 🔹 Integrated **LLM features** into real-time volumetric streaming applications for Expo City Dubai.
 
-<!--
-**ketantotlani/ketantotlani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🌐 Let’s Connect
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[<img src="https://img.shields.io/badge/LinkedIn%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](https://linkedin.com/in/ketantotlani)  
+[<img src="https://img.shields.io/badge/Portfolio%20-%23000000.svg?&style=for-the-badge&logo=vercel&logoColor=white"/>](https://www.ketan.vercel.app)  
+[<img src="https://img.shields.io/badge/Google%20Scholar%20-%234285F4.svg?&style=for-the-badge&logo=google-scholar&logoColor=white"/>](https://scholar.google.com/citations?user=gagf_yUAAAAJ&hl=en)
