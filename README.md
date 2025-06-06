@@ -19,6 +19,11 @@ I’m a Data Scientist with a strong foundation in software engineering, now foc
 
 ---
 
+**Gitlab Contributions**.
+![Gitlab Contributions](https://user-images.githubusercontent.com/43614859/205559881-fff62da8-3c0d-404f-bd7a-1eedf77d7a8b.png)
+
+---
+
 📝 **Selected Publications**  
 - 📘 *Latency-Optimized LLM Inference in Edge Environments* – [IJRASET](https://doi.org/10.22214/ijraset.2024.63470)  
 - 📘 *Pose Estimation Using MediaPipe for Fitness* – [IEEE Xplore](https://ieeexplore.ieee.org/document/10870725)  
